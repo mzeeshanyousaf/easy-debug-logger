@@ -1,1 +1,1 @@
-# Easy-debug-log
+# easy-debug-logger
